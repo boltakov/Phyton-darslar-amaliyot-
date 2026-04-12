@@ -4,7 +4,7 @@ Created on Sun Apr 12 13:26:57 2026
 
 @author: Bo'ltakov Diyor
 """
-
+ 
 #otam (onam, akam, ukam, va hokazo) degan lug'at yarating va lug'atga shu 
 #inson haqida kamida 3 ta m'alumot kiriting (ismi, tu'gilgan yili, shahri, 
 #manzili va hokazo). Lug'atdagi ma'lumotni matn shaklida konsolga
