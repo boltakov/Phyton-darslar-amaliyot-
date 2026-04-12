@@ -2,7 +2,7 @@
 """
 Created on Tue Apr  7 19:28:16 2026
 
-@author: BO:ltakov Diyor
+@author: BO'ltakov Diyor
 """
 
 #Yangi cars = ['toyota', 'mazda', 'hyundai', 'gm', 'kia'] degan ro'yxat 
