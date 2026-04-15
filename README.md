@@ -1,2 +1,2 @@
-# Phyton-darslar-amaliyot-
+# python-darslar-amaliyot-
 Phytonni o'rganish jarayonida mavzular yuzasida yozilgan kodlar...
